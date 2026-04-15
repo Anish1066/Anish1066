@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anish Gutha 👋
+# Hi, I'm Anish!
 
 **Computer Science @ University of Virginia**
 
