@@ -16,10 +16,6 @@
 
 I'm a Computer Science student at UVA passionate about building full-stack applications, working with data, and solving real-world problems with software. 
 
-- Currently building an **intramural sports management web app** (Django + PostgreSQL)
-- Exploring **machine learning** and **data engineering** workflows
-- Interested in **SWE**, **data engineering**, and **product** roles
-- Strong foundation in **algorithms, systems, and software design**
 
 ---
 
