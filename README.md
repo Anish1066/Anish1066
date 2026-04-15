@@ -14,16 +14,16 @@
 
 ## About Me
 
-I'm a Computer Science student at UVA passionate about building full-stack applications, working with data, and solving real-world problems with software. I enjoy everything from designing clean backend systems to exploring machine learning pipelines.
+I'm a Computer Science student at UVA passionate about building full-stack applications, working with data, and solving real-world problems with software. 
 
-- 🔭 Currently building an **intramural sports management web app** (Django + PostgreSQL)
-- 🌱 Exploring **machine learning** and **data engineering** workflows
-- 💼 Interested in **SWE**, **data engineering**, and **product** roles
-- 🎯 Strong foundation in **algorithms, systems, and software design**
+- Currently building an **intramural sports management web app** (Django + PostgreSQL)
+- Exploring **machine learning** and **data engineering** workflows
+- Interested in **SWE**, **data engineering**, and **product** roles
+- Strong foundation in **algorithms, systems, and software design**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -52,9 +52,9 @@ I'm a Computer Science student at UVA passionate about building full-stack appli
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏅 [Intramural Sports Management App](https://github.com/uva-cs3240-s26/project-a-15)
+### [Intramural Sports Management App](https://github.com/uva-cs3240-s26/project-a-15)
 > Full-stack web application for managing university intramural sports teams and games
 
 - Built with **Django**, **SQLite**, and **Google OAuth** (allauth)
@@ -65,7 +65,7 @@ I'm a Computer Science student at UVA passionate about building full-stack appli
 
 ---
 
-### 🎲 [CatanAnalyzer](https://github.com/Anish1066/catananalyzer)
+### [CatanAnalyzer](https://github.com/Anish1066/catananalyzer)
 > Data-driven analysis tool for the board game Catan
 
 - Analyzes game state, resource probabilities, and strategic decisions
@@ -74,7 +74,7 @@ I'm a Computer Science student at UVA passionate about building full-stack appli
 
 ---
 
-### 🔍 [TrueCrimeVault](https://github.com/Anish1066/truecrimevault)
+### [TrueCrimeVault](https://github.com/Anish1066/truecrimevault)
 > Web platform for organizing and exploring true crime content
 
 - Full-stack web app with curated case database and search functionality
@@ -83,7 +83,7 @@ I'm a Computer Science student at UVA passionate about building full-stack appli
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,14 +92,6 @@ I'm a Computer Science student at UVA passionate about building full-stack appli
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1066&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-- Advanced **machine learning** techniques (transformers, feature engineering)
-- **System design** for scalable distributed systems
-- **Data pipelines** and ETL workflows
 
 ---
 
